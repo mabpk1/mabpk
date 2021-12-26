@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abubakar @mabpk
 - 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning CSS, JS, TS & React.
+- 🌱 I’m currently learning CSS, JS, TS, React, etc.
 - 📫 How to reach me: mhmdabubakar98@gmail.com
 
 <!---
